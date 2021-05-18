@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EMDevelop
-- 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning React, Python, HTML - I soon plan on becoming certified in Solidity
-- 📫 How to reach me: https://twitter.com/EdwardM87385795
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Javascript and React JS. I'm now planning on a full stack application to build as my second project, the first was the just2connect.co.uk website. 
 
 <!---
 EMDevelop/EMDevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
