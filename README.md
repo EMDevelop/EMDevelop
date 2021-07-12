@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EMDevelop
-- 👀 I’m training to become a Full Stack developer at Makers Academy
-- 🌱 I've finished a my first Static website for a busieness (www.just2connect.co.uk), and I'm completing a number of other full stack applications which you'll see being added to my Respository over the coming months!
+- 👋  Hi, I’m Ed
+- 👀  I’m training to become a Full Stack developer at Makers Academy
+- 🌱  I've finished a my first Static website for a busieness (www.just2connect.co.uk), and I'm completing a number of other full stack applications which you'll see being added to my Respository over the coming months!
 
 stay tuned, thanks for dropping by! 
 
