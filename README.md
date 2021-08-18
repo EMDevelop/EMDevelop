@@ -7,7 +7,7 @@
 What gets me up in the morning? Or more appropriately, what keeps me up until early hours of the morning? Building a product which is useful to somebody, and positively contributes to the world. 
 
 ### <a name="Ambition">Ambition</a>
-I've never been afraid to put in the work, my brain is a sponge for new information, and I am already well on my way towards my ultimate goal, to become a Full-Stack Software Engineer. My code will be readable, secure, test driven, performant and succinct. I am determined to never stop learning, to never stop asking questions, and to better myself - one problem solved at a time. 
+I've never been afraid to put in the work, my brain is a sponge for new information, and I am already well on my way towards my ultimate goal of becoming a Full-Stack Software Engineer. My code will be readable, secure, test driven, performant and succinct. I am determined to never stop learning, to never stop asking questions, and to better myself - one problem solved at a time. 
 
 ***
 
