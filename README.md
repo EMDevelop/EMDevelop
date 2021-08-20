@@ -18,7 +18,7 @@ Ed will do the job (very well, *hint*), or if you're my Mum, Edward. I'm an aspi
 
 It didn't take long, in my first few months of employment I was building Excel Macros projects to improve my teams efficiency and, from that point on, constantly searching for my next project while asyncronously teaching myself the basics of VBA. 
 
-Gone are the days of my confinement to spreadsheet code, I've lept head-first into my new career at Makers Academy, as 12 week intensive coding program. I've been unleashed into the programming world and I'm excited to put on display my journey so far, and demonstrate my ever increasing tech stack through my portfolio of projects ([Ed's Repositories](https://github.com/EMDevelop?tab=repositories)).
+Gone are the days of my confinement to spreadsheet code, I've lept head-first into my new career with the help of the 12 week intensive coding program at Makers Academy. I've been unleashed into the programming world and I'm excited to put on display my journey so far, and demonstrate my ever increasing tech stack through my portfolio of projects ([Ed's Repositories](https://github.com/EMDevelop?tab=repositories)).
 
 ***
 
