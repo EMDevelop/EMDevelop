@@ -26,9 +26,9 @@ Gone are the days of my confinement to spreadsheet code, I've lept head-first in
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Just2Connect           | A front end website, build for a local Telephony company | React, Bootstrap, Vercel, etc. |
-| Ethereum Address Checker | NFT's are booming, jpeg rocks are selling for millions of $, but who's buying them? is the creator/owner buying them from themselves to increase perceived value? This program helps you track transactions between a set of wallets, and those they've transacted with. | Ruby, Rest API              |
-| Veganswap | A full stack website which helps people substitute ingredients, recipes and products for Vegan alternatives. | React, Node, Express, Postgres, Axios, SQL|
+| [Just2Connect](https://github.com/EMDevelop/Just2ConnectOfficial)           | A front end website, build for a local Telephony company | React, Bootstrap, Vercel, etc. |
+| [Ethereum Address Checker](https://github.com/EMDevelop/cryptoAddressWeb) | NFT's are booming, jpeg rocks are selling for millions of $, but who's buying them? is the creator/owner buying them from themselves to increase perceived value? This program helps you track transactions between a set of wallets, and those they've transacted with. | Ruby, Rest API              |
+| [Veganswap](https://github.com/EMDevelop/veganswap) | A full stack website which helps people substitute ingredients, recipes and products for Vegan alternatives. | React, Node, Express, Postgres, Axios, SQL|
 
 ***
 
