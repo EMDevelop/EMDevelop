@@ -37,10 +37,10 @@ Gone are the days of my confinement to spreadsheet code, I've lept head-first in
 ***
 
 ### <a name="Education">Education</a>
-- 2021: Software Engineer Bootcamp - Makers Academy
-- 2021: Learn Javascript, 30 hours - [Codecadamy - Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
-- 2021: Learn Ruby, 10 hours - [Codecadamy - Ruby](https://www.codecademy.com/learn/learn-ruby)
-- 2020: How to Make an App for Beginners (2020) - [CodeWithChris](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a)
-- 2017: Chartered Institute of Procurement & Supply: Diploma - Central Business School
+- 2021, Software Engineer Bootcamp - Makers Academy
+- 2021, Learn Javascript, 30 hours - [Codecadamy - Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+- 2021, Learn Ruby, 10 hours - [Codecadamy - Ruby](https://www.codecademy.com/learn/learn-ruby)
+- 2020, How to Make an App for Beginners (2020) - [CodeWithChris](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a)
+- 2017, Chartered Institute of Procurement & Supply: Diploma - Central Business School
 - 2015, BSc Degree: 2:1 Business Management - Cardiff University
 - 2012, A Levels: Economics A*, Business Studies B, Philosophy B - Tring School
