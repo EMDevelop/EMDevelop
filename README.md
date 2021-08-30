@@ -1,6 +1,6 @@
 ## Edward Martin
 ***
-[Ambition](#Ambition) | [Inspiration](#Inspiration) | [Ed, Edd, Eddy](#Ed) | [Projects](#Projects) | [Experience](#Experience) | [Education](#Education)
+[Ambition](#Ambition) | [Inspiration](#Inspiration) | [About Me](#About) | [Projects](#Projects) | [Experience](#Experience) | [Education](#Education)
 ***
 
 ### <a name="Ambition">Ambition</a>
@@ -13,8 +13,8 @@ What gets me up in the morning? Or more appropriately, what keeps me up until ea
 
 ***
 
-### <a name="Ed">Ed, Edd, Eddy?</a>
-Ed will do the job (very well, *hint*), or if you're my Mum, Edward. I'm an aspiring Full-Stack Developer with a commercial upbringing. My school years were predominantly Business Studies focused, complemented by a 2:1 Business Management degree at Cardiff University, so it's no surprise to hear that my working career to date has been comercially focused. 
+### <a name="About">About me</a>
+Is it Ed or Edward...? Ed will do the job (*very well*). I'm an aspiring Full-Stack Developer with a commercial upbringing. My school years were predominantly Business Studies focused, complemented by a 2:1 Business Management degree at Cardiff University, so it's no surprise to hear that my working career to date has been comercially focused. 
 
 It didn't take long, in my first few months of employment I was building Excel Macros projects to improve my teams efficiency and, from that point on, constantly searching for my next project while asyncronously teaching myself the basics of VBA. 
 
