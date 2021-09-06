@@ -13,7 +13,7 @@ I've never been afraid to put in the work, my brain is a sponge for new informat
 ### <a name="Inspiration">Inspiration</a>
 What gets me up in the morning? Or more appropriately, what keeps me up until early hours of the morning? Building a product which is useful to somebody, and positively contributes to the world. 
 
-
+<img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/ios/50/000000/react-native--v2.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
 ***
 
