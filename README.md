@@ -1,7 +1,11 @@
 ## Edward Martin
+
 ***
 [Ambition](#Ambition) | [Inspiration](#Inspiration) | [About Me](#About) | [Projects](#Projects) | [Experience](#Experience) | [Education](#Education)
 ***
+
+<img src ="https://github-readme-stats.vercel.app/api?username=EMdevelop&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 ### <a name="Ambition">Ambition</a>
 I've never been afraid to put in the work, my brain is a sponge for new information, and I am already well on my way towards my ultimate goal of becoming a Full-Stack Software Engineer. My code will be readable, secure, test driven, performant and succinct. I am determined to never stop learning, to never stop asking questions, and to continuously better myself - one problem solved at a time. 
