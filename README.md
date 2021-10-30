@@ -1,17 +1,16 @@
 ## Edward Martin
-Website: https://www.edwardjamesmartin.co.uk/
----
 
-[Ambition](#Ambition) | [Inspiration](#Inspiration) | [About Me](#About) | [Portfolio](#Projects) | [Tech Stack](#Stack) | [Experience](#Experience) | [Education](#Education)
 
----
+
+[Ambition](#Ambition) | [Inspiration](#Inspiration) | [About Me](#About) | [Portfolio](#Projects) | [Tech Stack](#Stack) | [CV](#cv)
+
+My Portfolio Website: https://www.edwardjamesmartin.co.uk/
 
 <br />
 
 <img src ="https://github-readme-stats.vercel.app/api?username=EMdevelop&&show_icons=true&theme=panda&hide_rank=true&border_radius=5&hide_title=true">
 
-<br />
-<br />
+
 
 ### <a name="Ambition">Ambition</a>
 
@@ -29,11 +28,9 @@ It didn't take long, in my first few months of employment I was building Excel M
 
 Gone are the days of my confinement to spreadsheet code, I've lept head-first into my new career with the help of the 12 week intensive coding program at Makers Academy. I've been unleashed into the programming world and I'm excited to put on display my journey so far, and demonstrate my ever increasing tech stack through my portfolio of projects ([Ed's Repositories](https://github.com/EMDevelop?tab=repositories)).
 
-<br />
 
 ---
 
-<br />
 
 ### <a name="Projects">Portfolio</a>
 
@@ -44,17 +41,16 @@ Gone are the days of my confinement to spreadsheet code, I've lept head-first in
 | [Veganswap](https://github.com/EMDevelop/veganswap)                       | A full stack website which helps people substitute ingredients, recipes and products for Vegan alternatives.                                                                                                                                                             | React, Node, Express, PostgreSQL, Axios, SQL  |
 | [Chitter](https://github.com/EMDevelop/chitter-challenge)                 | This is a chatroom app, inspired by twitter, where users can post and comment on eachothers posts. Passwords are stored using Salt & Pepper hashing                                                                                                                      | Sinatra, PostgreSQL, Becrypt, RSpec, Capybara |
 
-<br />
+
 
 ---
 
-<br />
+
 
 ### <a name="Stack">Tech Stack</a>
 
 I consider myself language/tool agnostic, I am willing and open to learn new languages, tools or frameworks as required.
 
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emdevelop&layout=compact&theme=panda)](https://github.com/emdevelop/github-readme-stats)
 
@@ -63,24 +59,9 @@ I consider myself language/tool agnostic, I am willing and open to learn new lan
 | Frameworks                                                                                                                                                                                                                             | Databases                                                                                                                                      | Tools                                                                                                                                                | Testing                                                                                                                                                                                                                                                                                                                                                       |
 | <img src="https://img.icons8.com/officel/48/000000/react.png"/><br/> <img src="http://sinatrarb.com/images/logo.png" style="height:48px;" alt='Sinatra'> <br/> <img src="https://img.icons8.com/windows/32/000000/ruby-on-rails.png"/> | <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><br/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/><br/> | <img src="https://img.icons8.com/ios-filled/48/000000/console.png"/><br/> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/><br/> | <img src="https://dmlaziuk.github.io/images/rspec.png" style="height:48px;" alt='rspec'><br/> <img src="https://www.mailslurp.com/assets/brands/capybara.png" style="height:48px;" alt='capybara'><br/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png" style="height:48px;" alt='Jasmine'><br/> |
 
-<br />
 
 ---
 
-<br />
+### <a name="cv">CV</a>
 
-### <a name="Experience">Work Experience</a>
-
-#### WIP
-
-<br />
-
-### <a name="Education">Education</a>
-
-- 2021, Software Engineer Bootcamp - Makers Academy
-- 2021, Learn Javascript, 30 hours - [Codecadamy - Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
-- 2021, Learn Ruby, 10 hours - [Codecadamy - Ruby](https://www.codecademy.com/learn/learn-ruby)
-- 2020, How to Make an App for Beginners (2020) - [CodeWithChris](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a)
-- 2017, Chartered Institute of Procurement & Supply: Diploma - Central Business School
-- 2015, BSc Degree: 2:1 Business Management - Cardiff University
-- 2012, A Levels: Economics A\*, Business Studies B, Philosophy B - Tring School
+My CV: https://www.edwardjamesmartin.co.uk/EdwardMartinCV.pdf
