@@ -21,7 +21,7 @@ I'm a Full-Stack Developer with 5 years commercial experience. My education was 
 
 It didn't take long for me to start developing solutions. In my first few months of employment I was building Excel VBA Macros to improve team efficiency, while constantly searching for my next project.
 
-Gone are the days of my confinement to spreadsheet code, I've lept head-first into my new career, undertaking the highly selective Makers Academy software engineering accelerator program. I've been unleashed into the programming world and I'm excited to put on display the results of journey so far, and demonstrate my ever increasing tech stack through this portfolio of projects
+Gone are the days of my confinement to spreadsheet code, I've lept head-first into my new career, undertaking the highly selective Makers Academy software engineering accelerator program. I've been unleashed into the programming world and I'm excited to put on display the results of my journey so far, and demonstrate my ever increasing tech stack through this portfolio of projects
 
 <br />
 
@@ -46,12 +46,12 @@ I consider myself language/tool agnostic, I am willing and open to learn new lan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emdevelop&layout=compact&theme=panda)](https://github.com/emdevelop/github-readme-stats)
 
-| Category   | Technology                                      |
-| ---------- | ----------------------------------------------- |
-| Frameworks | React, Express, Django, Rails, Sinatra          |
-| Databases  | PostgreSQL, Firebase                            |
-| Tools      | Command-line, Excel (VBA), Pipedream, Twillo    |
-| Testing    | Capybara, RSpec, Jasmine, Self-built framework, |
+| Category   | Technology                                     |
+| ---------- | ---------------------------------------------- |
+| Frameworks | React, Express, Django, Rails, Sinatra         |
+| Databases  | PostgreSQL, Firebase                           |
+| Tools      | Command-line, Excel (VBA), Pipedream, Twillo   |
+| Testing    | Capybara, RSpec, Jasmine, Self-built framework |
 
 ---
 
