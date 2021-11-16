@@ -6,13 +6,9 @@
 
 ---
 
-<br />
-
 #### My Portfolio Website: www.edwardjamesmartin.co.uk/
 
 #### My CV: www.edwardjamesmartin.co.uk/EdwardMartinCV.pdf
-
-<br />
 
 ### <a name="Inspiration">Inspiration</a>
 
@@ -37,8 +33,6 @@ Gone are the days of my confinement to spreadsheet code, I've lept head-first in
 | Chitter                  | Inspired by Twitter, Chitter is an open social media platform where users can securely log in and communicate with one another by posting and commenting. Featuring the full CRUD functionality, 100% TDD coverage and multiple layers of password protection through SALT and PEPPER password storage.                                                             | Ruby, Sinatra, PosgreSQL, RSpec, Capybara, Bycrpt                                                                         | <img src="https://github.com/EMDevelop/public_resources/blob/main/gifs/Chitter/gifs/reply.gif" width="auto" height="">            |
 | Vegan Swap               | My aim with this project is to raise awareness of plant-based alternatives to common products. Users can suggest alternatives and include profiles for non-plant-based ingredients and recipes, as well as suggest their favorite brands. With the MVP complete, I plan to restructure the codebase in a test-driven manner, with the addition of an ORM framework. | Javascript, React, Express, PostgreSQL, Heroku, Cloudinary                                                                | <img src="https://raw.githubusercontent.com/EMDevelop/public_resources/main/gifs/veganswap/veganswap.gif" width="auto" height=""> |
 | Ethereum Address Checker | NFT's are booming, jpeg rocks are selling for millions of $, but who's buying them? is the creator/owner buying them from themselves to increase perceived value? This program helps you track transactions between a set of wallets, and those they've transacted with.                                                                                            | Ruby, Etherscan API, RSpec, Command-line                                                                                  | ![]() <img src="https://github.com/EMDevelop/public_resources/blob/main/gifs/Chitter/gifs/reply.gif" width="auto" height="">      |
-
-|
 
 ---
 
@@ -74,8 +68,6 @@ Learning a completely new SaaS platform from scratch, I began solving complex te
 #### Assistant Procurement Manager | Laing O’Rourke (Sept 2015 – August 2017)
 
 After graduating from Cardiff University I joined the Laing O’Rourke Graduate programme and was on track to become a Procurement Manager. It was here that I created a full P2P system in just excel/vba, with no prior coding knowledge. I created numerous tech guides for our CRM system, and lead training sessions teaching usiers how to speed up their workflow with tech shortcuts.
-
-<br />
 
 ### <a name="Education">Education</a>
 
