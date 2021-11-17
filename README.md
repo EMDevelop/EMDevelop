@@ -46,19 +46,12 @@ I consider myself language/tool agnostic, I am willing and open to learn new lan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emdevelop&layout=compact&theme=panda)](https://github.com/emdevelop/github-readme-stats)
 
-<<<<<<< HEAD
 | Category   | Technology                                     |
 | ---------- | ---------------------------------------------- |
 | Frameworks | React, Express, Django, Rails, Sinatra         |
 | Databases  | PostgreSQL, Firebase                           |
 | Tools      | Command-line, Excel (VBA), Pipedream, Twillo   |
-=======
-| Category   | Technology                                      |
-| ---------- | ----------------------------------------------- |
-| Frameworks | React, Express, Django, Rails, Sinatra          |
-| Databases  | PostgreSQL, Firebase                            |
-| Tools      | Command-line, Excel (VBA), Pipedream, Twillo    |
->>>>>>> 9096fef0e208f0a3fdcc892aceef2682e9569183
+| Hosting    | Vercel, Heroku, AWS                            |
 | Testing    | Capybara, RSpec, Jasmine, Self-built framework |
 
 ---
