@@ -2,13 +2,11 @@
 
 ---
 
-[Inspiration](#Inspiration) | [About Me](#About) | [Portfolio](#Projects) | [Stack & Stats](#Stack) | [Experience](#Experience) | [Education](#Education)
+[Inspiration](#Inspiration) | [About Me](#About) | [Highlighted Projects](#Projects) | [Stack & Stats](#Stack) | [Experience](#Experience) | [Education](#Education)
 
 ---
 
-#### My Portfolio Website: www.edwardjamesmartin.co.uk/
-
-#### My CV: www.edwardjamesmartin.co.uk/EdwardMartinCV.pdf
+#### My Portfolio & CV: www.edwardjamesmartin.co.uk/
 
 ### <a name="Inspiration">Inspiration</a>
 
@@ -22,8 +20,6 @@ I'm a Full-Stack Developer with 5 years commercial experience. My education was 
 It didn't take long for me to start developing solutions. In my first few months of employment I was building Excel VBA Macros to improve team efficiency, while constantly searching for my next project.
 
 Gone are the days of my confinement to spreadsheet code, I've lept head-first into my new career, undertaking the highly selective Makers Academy software engineering accelerator program. I've been unleashed into the programming world and I'm excited to put on display the results of my journey so far, and demonstrate my ever increasing tech stack through this portfolio of projects
-
-<br />
 
 ### <a name="Projects">Highlighted Projects</a>
 
