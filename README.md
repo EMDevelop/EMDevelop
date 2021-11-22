@@ -60,15 +60,15 @@ I consider myself language/tool agnostic, I am willing and open to learn new lan
 
 #### Business Development Manager (Growth Team) | MVF Global (April 2019 – September 2021)
 
-I am responsible for Researching, Selling, Launching and Account Managing new industry launches. I’ve recently originated and implemented a new business model, CPC, in an industry we had no prior experience in. I was promoted into a senior role as a Business Development Manager (Growth Team) 7 months after joining the company.
+Responsible for Researching, Selling, Launching and Account Managing new industry launches. I maintained an excellent new business track record which led to two promotions into Senior sales positions. I pride myself on my exceptional interpersonal and communication skills and I am confident that the commercial skills I’ve developed will be invaluable to my new role.
 
 #### Support, Business Analyst and Business Development | Sabrefish (SaaS) (Sept 2017 – March 2019)
 
-Learning a completely new SaaS platform from scratch, I began solving complex technical system faults using technical documentation and advanced SQL. I was quickly promoted from solving tech support issues to a client-facing Business Analyst and Business Development role. I was the direct point of contact for our Key Client, and also assisted our CEO with new business client pitches.
+Responsible for solving complex technical software faults as well as scoping additional feature requests from clients. I taught myself SQL to an advanced level, automated labour-intensive manual reports, and created guides for new starters in the company to understand what was a complex insurance software product.
 
 #### Assistant Procurement Manager | Laing O’Rourke (Sept 2015 – August 2017)
 
-After graduating from Cardiff University I joined the Laing O’Rourke Graduate programme and was on track to become a Procurement Manager. It was here that I created a full P2P system in just excel/vba, with no prior coding knowledge. I created numerous tech guides for our CRM system, and lead training sessions teaching usiers how to speed up their workflow with tech shortcuts.
+Responsible for managing purchase contracts between a national building contractor and its suppliers. It was here that I created a full P2P system in just Microsoft Excel (VBA), which is still used in the company to this day.
 
 ### <a name="Education">Education</a>
 
