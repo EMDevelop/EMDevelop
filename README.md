@@ -2,7 +2,7 @@
 
 <h1>Edward Martin</h1>
 
-<a href="https://www.edwardjamesmartin.co.uk/"><img src="https://raw.githubusercontent.com/EMDevelop/public_resources/main/images/edwardMartin/%20portfolio.png"  height="auto" width="70%" ></a>
+<a href="https://www.edwardjamesmartin.co.uk/"><img src="https://raw.githubusercontent.com/EMDevelop/public_resources/main/images/edwardMartin/%20portfolio.png"  height="auto" width="70%" style="border-radius:10px;"></a>
 
 <h4> ↑ Click for CV & Portfolio Website ↑</h4>
 
