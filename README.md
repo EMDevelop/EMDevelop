@@ -1,11 +1,17 @@
-## Edward Martin
+<div align="center">
 
----
+<h1>Edward Martin</h1>
+<h4>↓ Click for my portfolo website & CV</h4>
+<a href="url">
+<img src="https://github.com/EMDevelop/public_resources/blob/main/images/edwardMartin/%20portfolio.png align="left" height="48" width="48" >
+</a>
 
 [Inspiration](#Inspiration) | [About Me](#About) | [Highlighted Projects](#Projects) | [Stack & Stats](#Stack) | [Experience](#Experience) | [Education](#Education)
 
 ---
 
+ </div>
+ 
 #### My Portfolio & CV: www.edwardjamesmartin.co.uk/
 
 ### <a name="Inspiration">Inspiration</a>
