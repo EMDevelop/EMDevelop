@@ -14,19 +14,6 @@
 
 </br>
 
-### <a name="Inspiration">Inspiration</a>
-
-I have always embraced hard work. My brain is a sponge for new information and I am determined to continue learning, to be constantly curious, and to never stop asking questions. My code will be readable, secure, test driven, and succinct.
-It gets me up in the morning and sustains me into the early hours, I am passionate about building solutions with utility, and a positive impact in the world.
-
-### <a name="About">About me</a>
-
-I'm a Full-Stack Developer with 5 years commercial experience. My education was predominantly Business Studies focused, culminating in a 2:1 Business Management degree from Cardiff University, so it's no surprise to understand that my working career to date has been commercially focused.
-
-It didn't take long for me to start developing solutions. In my first few months of employment I was building Excel VBA Macros to improve team efficiency, while constantly searching for my next project.
-
-Gone are the days of my confinement to spreadsheet code, I've lept head-first into my new career, undertaking the highly selective Makers Academy software engineering accelerator program. I've been unleashed into the programming world and I'm excited to put on display the results of my journey so far, and demonstrate my ever increasing tech stack through this portfolio of projects
-
 ### <a name="Projects">Highlighted Projects</a>
 
 | Project                                                                           | Description                                                                                                                                                                                                                                                                                                                                                         | Tech                                                                                                                      | Preview                                                                                                                           |
@@ -50,15 +37,15 @@ I consider myself language/tool agnostic, I am willing and open to learn new lan
 
 | Category   | Technology                                     |
 | ---------- | ---------------------------------------------- |
-| Frameworks | React, Express, Django, Rails, Sinatra         |
-| Databases  | PostgreSQL, Firebase                           |
-| Tools      | Command-line, Excel (VBA), Pipedream, Twillo   |
+| Frameworks | React, Express, Django, Rails, Sinatra, NestJs (backend), NextJs (Frontend)          |
+| Databases  | PostgreSQL, Firebase, MySQL                          |
+| Tools      | Command-line, Excel (VBA), Pipedream, Twillo, DataGrip, VsCode,    |
 | Hosting    | Vercel, Heroku, AWS                            |
-| Testing    | Capybara, RSpec, Jasmine, Self-built framework |
+| Testing    | Capybara, RSpec, Jasmine, Self-built framework, Jest |
 
 ---
 
-### <a name="Experience">Work Experience</a>
+### <a name="Experience">Previous Work Experience</a>
 
 #### Business Development Manager (Growth Team) | MVF Global (April 2019 – September 2021)
 
@@ -73,11 +60,9 @@ Responsible for solving complex technical software faults as well as scoping add
 Responsible for managing purchase contracts between a national building contractor and its suppliers. It was here that I created a full P2P system in just Microsoft Excel (VBA), which is still used in the company to this day.
 
 ### <a name="Education">Education</a>
-
+- 2022 - present, Full Stack Enfineer - BCB Group
+- 2021, Software Engineer - BCB Group
 - 2021, Software Engineer Bootcamp - Makers Academy
-- 2021, Learn Javascript, 30 hours - [Codecadamy - Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
-- 2021, Learn Ruby, 10 hours - [Codecadamy - Ruby](https://www.codecademy.com/learn/learn-ruby)
-- 2020, How to Make an App for Beginners (2020) - [CodeWithChris](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a)
 - 2017, Chartered Institute of Procurement & Supply: Diploma - Central Business School
 - 2015, BSc Degree: 2:1 Business Management - Cardiff University
 - 2012, A Levels: Economics A\*, Business Studies B, Philosophy B - Tring School
